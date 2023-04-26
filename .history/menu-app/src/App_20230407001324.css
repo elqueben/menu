@@ -1,0 +1,26 @@
+#nav {
+    background-color: green;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
+}
+
+a {
+    margin-top: .75rem;
+    font-weight: bold;
+    text-decoration: none;
+    color:white;
+    background-color: red;
+
+}
+
+.jumbotron {
+    text-align: center;
+    background-color: black;
+    color:white;
+    height: 92.7vh;
+}

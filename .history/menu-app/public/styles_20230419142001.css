@@ -1,0 +1,13 @@
+img {
+    border-radius:5px;
+}
+
+iframe {
+    height: 65vh;
+}
+
+footer {
+    position: absolute;
+    bottom: auto;
+    width: 100%
+  }
